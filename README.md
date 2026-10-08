@@ -12,15 +12,13 @@ Founded in 2018 and headquartered in Silicon Valley, Kobalt Tech is a leading e-
 
 Kobalt Tech has a wealth of data on customers, products, and geographic information that is underutilized. Partnering with the Head of Operations, an analysis was conducted to understand Kobalt Tech's overall trends (2019-2022). The analysis also evaluated product and loyalty program performance from 2022 to guide corporate strategy for the following year.
 
-**Strategic metrics:** Revenue (Sales), Order count, Average order value (AOV), Loyalty member, Region
+**Strategic Metrics:** Revenue (Sales), Order count, Average order value (AOV), Loyalty member, Region
 
 ## Executive Summary
 
-From 2019-2022 Kobalt Tech saw $28.1M in revenue.
-
 ![Executive summary](images/executive-summary.png)
 
-Overall sales increased more than 50% during the pandemic and are now stabilizing toward pre-pandemic levels. Since 2020 and 2021 were unique years, this analysis also benchmarks 2022 against 2019.
+From 2019-2022 Kobalt Tech saw $28.1M in revenue. Overall sales increased more than 50% during the pandemic and are now stabilizing toward pre-pandemic levels. Since 2020 and 2021 were unique years, this analysis also benchmarks 2022 against 2019.
 
 - **Revenue:** 2022 revenue fell by 46% to $5M, down $4.2M from the prior year. The decline was mainly driven by a 40% (-14,293) decrease in orders.
 - **AOV:** AOV fell by $24.67 (10%) in 2022 from the prior year. The decline was across all regions; LATAM had the largest percent decrease at 22%, meaning customers in the region are moving away from expensive products like laptops and monitors.
@@ -48,6 +46,9 @@ Overall sales increased more than 50% during the pandemic and are now stabilizin
 - Bose SoundSport headphones and Apple iPhone are 2 underperforming products, each accounting for less than 1% of order volume and revenue.
   - Bose headphones saw a total of 1 order in 2022 despite being $56 cheaper than the comparable Apple AirPods, which accounted for 42% of orders.
   - While AirPods is the most-ordered product, the iPhone is the second-lowest, with only $30.1K in sales in 2022.
+ 
+  ![Product performance](images/product-performance-2.png)
+  
 - Every product declined across all regions in 2022 due to fewer orders, consistent with a post-pandemic shift in customer behavior and more in-store options.
   - MacBook sales fell 55%, with LATAM and EMEA taking the biggest hit.
   - ThinkPad sales fell 51%, with LATAM and APAC taking the biggest hit.
@@ -61,7 +62,7 @@ Overall sales increased more than 50% during the pandemic and are now stabilizin
 - The loyalty program has grown rapidly since its inception in 2019. In 2022 members account for 52% of orders, versus only 12% in 2019.
 - Since 2021 members bring in more revenue than non-members: 14% more in 2021 ($4.9M vs $4.3M) and 10% more in 2022 ($2.7M vs $2.2M).
 - In 2022 members bought more expensive products, with an AOV of $245 per order versus $214 for non-members.
-- Members do not consistently spend more per order month over month. In 2022 member AOV surpassed non-members in 10 of 12 months (83%).
+- Members do not consistently spend more per order month over month. In 2022 member AOV surpassed non-members in 10 of 12 months.
 - Monthly AOV has declined for both members and non-members, though the decline is less drastic for members.
 - Non-member AOV increases in Q4, a potential opportunity to convert holiday shoppers into members.
 
