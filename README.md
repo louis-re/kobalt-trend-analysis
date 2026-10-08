@@ -22,7 +22,7 @@ From 2019-2022 Kobalt Tech saw $28.1M in revenue. Overall sales increased more t
 
 - **Revenue:** 2022 revenue fell by 46% to $5M, down $4.2M from the prior year. The decline was mainly driven by a 40% (-14,293) decrease in orders.
 - **AOV:** AOV fell by $24.67 (10%) in 2022 from the prior year. The decline was across all regions; LATAM had the largest percent decrease at 22%, meaning customers in the region are moving away from expensive products like laptops and monitors.
-- **Regions:** At 38%, North America (NA) saw the lowest decline in orders in 2022. However, since NA accounts for more than 50% of orders, it has the largest effect on the decline in revenue.
+- **Regions:** At 37%, North America (NA) saw the lowest decline in orders in 2022. However, since NA accounts for more than 50% of orders, it has the largest effect on the decline in revenue.
 - **Products:** 4 products account for 96% of revenue: Apple AirPods, Gaming Monitor, MacBook Air, and ThinkPad laptop. Customers order Apple AirPods more than any other product. Every product saw a decline in orders in 2022, with laptops falling the most.
 - **Loyalty program:** The loyalty program is strong and growing. Members account for 11,107 (51%) of orders in 2022, up 40% from 2019. Loyalty members have brought in 10% more revenue than non-members ($2.7M vs $2.2M).
 
@@ -32,8 +32,8 @@ From 2019-2022 Kobalt Tech saw $28.1M in revenue. Overall sales increased more t
 
 ![Sales and region trends](images/sales-region-trends.png)
 
-- Every region saw orders decline by 40%. NA held up best, with orders down 38% and AOV down 3%.
-- APAC, EMEA, and NA revenue declines were driven mainly by fewer orders (39%, 52%, and 51% respectively).
+- Every region saw orders decline by 40%. NA held up best, with orders down 37% and AOV down 3%.
+- APAC, EMEA, and NA revenue declines were driven mainly by fewer orders (44%, 41%, 37% respectively).
 - LATAM's sales decline was the steepest, driven by both fewer orders (44%) and lower AOV (22%): customers bought less and purchased less expensive products. However, LATAM's 2022 orders were 76% higher than in 2019, which suggests it is a newly captured market worth protecting.
 - Sales have 2 high-traffic seasons each year, August-September (back to school) and December-January (holiday gifting). These are the best windows for promotions.
 
